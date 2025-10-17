@@ -1,10 +1,10 @@
 {
-  "name": "Hugoplate",
-  "short_name": "Hugoplate",
+  "name": "CivicBridge",
+  "short_name": "CivicBridge",
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:53437/?utm_source=web_app_manifest",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#000",
 
