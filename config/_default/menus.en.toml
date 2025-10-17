@@ -3,12 +3,3 @@
 # main menu
 
 # footer menu
-[[footer]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
