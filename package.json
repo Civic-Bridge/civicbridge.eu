@@ -1,0 +1,16 @@
+{
+  "name": "civic-bridge.eu",
+  "version": "1.0.0",
+  "description": "Civic Bridge website",
+  "scripts": {
+    "dev": "hugo server",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
+    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.19",
+    "tailwindcss": "^4.1.14"
+  }
+}
